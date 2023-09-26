@@ -1,0 +1,1 @@
+Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)
